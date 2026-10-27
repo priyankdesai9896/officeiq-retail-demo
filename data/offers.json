@@ -1,0 +1,181 @@
+[
+ {
+  "offer_id": "DESK_CHAIR_15",
+  "name": "Desk + Chair: save 15%",
+  "kind": "pair",
+  "a": {
+   "kind": "desk"
+  },
+  "b": {
+   "kind": "chair"
+  },
+  "discount_pct": 15,
+  "applies_to": "both",
+  "description": "Buy any desk with any office chair and save 15% on both.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "PRINTER_INK_10",
+  "name": "Printer + 2 cartridges: save 10%",
+  "kind": "printer_ink",
+  "min_cartridges": 2,
+  "discount_pct": 10,
+  "applies_to": "all",
+  "description": "Buy a printer with two compatible cartridges and save 10% on the set.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "CHAIRS_3PLUS",
+  "name": "3+ chairs: save 10% (10+: 15%)",
+  "kind": "qty_tier",
+  "match": {
+   "kind": "chair"
+  },
+  "tiers": [
+   [
+    10,
+    15
+   ],
+   [
+    3,
+    10
+   ]
+  ],
+  "description": "Furnishing a team? 10% off 3 or more chairs, 15% off 10 or more.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "WHITEBOARD_KIT",
+  "name": "Whiteboard kit: 20% off markers & eraser",
+  "kind": "kit",
+  "anchor": {
+   "kind": "whiteboard"
+  },
+  "items": [
+   {
+    "kind": "dry_erase_marker"
+   },
+   {
+    "kind": "whiteboard_eraser"
+   }
+  ],
+  "discount_pct": 20,
+  "description": "Buy a whiteboard and get 20% off dry-erase markers and an eraser.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "TV_HDMI_FREE",
+  "name": "Free HDMI cable with any display",
+  "kind": "free_item",
+  "anchor": {
+   "kind": "tv"
+  },
+  "item": {
+   "kind": "hdmi_cable"
+  },
+  "max_value": 25.0,
+  "description": "Get one HDMI cable (up to $25) free with any TV display.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "HOME_OFFICE_STARTER",
+  "name": "Home Office Starter: $50 off",
+  "kind": "set_amount",
+  "set": [
+   {
+    "kind": "desk"
+   },
+   {
+    "kind": "chair"
+   },
+   {
+    "kind": "lamp"
+   }
+  ],
+  "amount_off": 50.0,
+  "description": "Desk + chair + desk lamp together: $50 off.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "CONFERENCE_READY",
+  "name": "Conference Room Ready: save 12%",
+  "kind": "set_pct",
+  "set": [
+   {
+    "kind": "conference_table"
+   },
+   {
+    "kind": "chair",
+    "qty": 6
+   },
+   {
+    "kind": "tv"
+   }
+  ],
+  "discount_pct": 12,
+  "description": "Conference table + 6 chairs + a display: save 12% on all of it.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "PAPER_BULK_10",
+  "name": "Paper by the case: 10% off 5+ cases",
+  "kind": "qty_tier",
+  "match": {
+   "kind": "paper",
+   "min_reams": 5
+  },
+  "tiers": [
+   [
+    5,
+    10
+   ]
+  ],
+  "description": "Stock up: 10% off when you buy 5 or more cases of paper.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "SUPPLIES_100",
+  "name": "Spend $100 on supplies, save 15%",
+  "kind": "spend_category",
+  "category": "Office Supplies",
+  "min_spend": 100.0,
+  "discount_pct": 15,
+  "description": "15% off office supplies when they total $100 or more.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "VIDEO_KIT_10",
+  "name": "Video call kit: camera + speakerphone, save 10%",
+  "kind": "kit",
+  "anchor": {
+   "kind": "camera"
+  },
+  "items": [
+   {
+    "kind": "speaker"
+   }
+  ],
+  "discount_pct": 10,
+  "description": "Buy a conference camera with a speakerphone or soundbar and save 10% on the audio.",
+  "type": "offer",
+  "active": true
+ },
+ {
+  "offer_id": "FREE_DELIVERY_500",
+  "name": "Free delivery over $500",
+  "kind": "free_delivery",
+  "min_subtotal": 500.0,
+  "description": "Orders of $500 or more ship free.",
+  "type": "offer",
+  "active": true
+ }
+]

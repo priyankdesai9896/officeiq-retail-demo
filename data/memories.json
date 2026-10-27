@@ -1,0 +1,95 @@
+{
+ "RET-1001": [
+  [
+   "preference",
+   "Corporate standard colour for furniture is white with gray chairs.",
+   0.95
+  ],
+  [
+   "preference",
+   "Budget for the new HQ floor is about $25,000.",
+   0.9
+  ],
+  [
+   "fact",
+   "Needs a conference room that seats 10 with a large display.",
+   0.85
+  ],
+  [
+   "preference",
+   "Prefers ergonomic mesh chairs for all staff.",
+   0.9
+  ]
+ ],
+ "RET-1002": [
+  [
+   "preference",
+   "Likes an industrial look: black and walnut.",
+   0.9
+  ],
+  [
+   "preference",
+   "Wants electric standing desks for the whole team.",
+   0.95
+  ],
+  [
+   "fact",
+   "Team prints a lot of color marketing material.",
+   0.8
+  ]
+ ],
+ "RET-1003": [
+  [
+   "preference",
+   "Prefers walnut wood finishes and a black chair.",
+   0.9
+  ],
+  [
+   "fact",
+   "Uses two monitors and needs a desk at least 55 inches wide.",
+   0.9
+  ],
+  [
+   "preference",
+   "Budget around $1,500 for the home office.",
+   0.85
+  ],
+  [
+   "fact",
+   "The spare bedroom has carpet, so a chair mat is needed.",
+   0.8
+  ],
+  [
+   "fact",
+   "Has lower back pain from sitting at the desk all day.",
+   0.9
+  ]
+ ],
+ "RET-1004": [
+  [
+   "preference",
+   "Prefers white furniture to keep the small room bright.",
+   0.9
+  ],
+  [
+   "fact",
+   "Prints worksheets weekly, so an inkjet all-in-one is enough.",
+   0.85
+  ],
+  [
+   "preference",
+   "Keep the total under $600.",
+   0.9
+  ],
+  [
+   "preference",
+   "Can't justify more than $400 for any single item.",
+   0.85
+  ],
+  [
+   "fact",
+   "The corner is small, so the desk must be no wider than 40 inches.",
+   0.85
+  ]
+ ]
+}

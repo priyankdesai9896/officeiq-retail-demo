@@ -1,0 +1,15 @@
+record_kind: prompt
+
+name: room_photo_locate
+
+description: >
+    Find every piece of furniture and equipment in a room photo, with a box round each
+    one, so the room can be copied as it is.
+
+annotations:
+  owner: "Design Services"
+  model: "vision"
+  used_by: "Room Planner · Replicate my room"
+
+content: |
+  Locate every piece of furniture and equipment in this room: every chair (including chairs partly hidden behind a table), tables, desks, TVs or screens, whiteboards, cabinets, shelves, bookcases, credenzas, side tables, lamps, printers, computer monitors, video bars, rugs and bins. Also box framed pictures or artwork (call them 'picture'), plants, phones and people, so they are not mistaken for screens. Reply with JSON only: {"objects": [{"label": "chair", "bbox_2d": [x1, y1, x2, y2]}, ...]} with one entry per object.

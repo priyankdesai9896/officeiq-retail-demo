@@ -1,0 +1,66 @@
+[
+ {
+  "type": "category",
+  "category": "Breakroom & Facilities",
+  "subcategories": [
+   "Trash & Recycling"
+  ],
+  "order": 0
+ },
+ {
+  "type": "category",
+  "category": "Furniture",
+  "subcategories": [
+   "Benching Workstations",
+   "Conference Tables",
+   "Cubicle Workstations",
+   "Desks",
+   "L-Shaped Desks",
+   "Lighting",
+   "Office Chairs",
+   "Rugs & Mats",
+   "Standing Desks",
+   "Storage",
+   "Tables"
+  ],
+  "order": 1
+ },
+ {
+  "type": "category",
+  "category": "Ink & Toner",
+  "subcategories": [
+   "Ink Bottles",
+   "Ink Cartridges",
+   "Toner Cartridges"
+  ],
+  "order": 2
+ },
+ {
+  "type": "category",
+  "category": "Office Supplies",
+  "subcategories": [
+   "Binders & Filing",
+   "Desk Accessories",
+   "Erasers",
+   "Markers",
+   "Notebooks & Pads",
+   "Paper",
+   "Whiteboards"
+  ],
+  "order": 3
+ },
+ {
+  "type": "category",
+  "category": "Technology",
+  "subcategories": [
+   "Cables",
+   "Monitor Mounts",
+   "Monitors",
+   "Power & Cable Management",
+   "Printers",
+   "TVs & Displays",
+   "Video Conferencing"
+  ],
+  "order": 4
+ }
+]

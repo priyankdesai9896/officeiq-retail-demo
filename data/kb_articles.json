@@ -1,0 +1,184 @@
+[
+ {
+  "type": "kb_article",
+  "article_id": "KB-01",
+  "title": "Delivery times and costs",
+  "category": "shipping",
+  "answer": "Most in-stock items ship next business day. Furniture arrives in 3-5 business days. Delivery is free on orders of $500 or more; otherwise a flat $29.99 applies.",
+  "question_variants": [
+   "how long does delivery take",
+   "do you charge for shipping",
+   "when will my desk arrive"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-02",
+  "title": "Returns policy",
+  "category": "returns",
+  "answer": "Return most items within 30 days for a full refund. Furniture can be returned within 14 days in original packaging. Opened ink and toner cannot be returned.",
+  "question_variants": [
+   "can I return a desk",
+   "what is your return policy",
+   "how do returns work"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-03",
+  "title": "Assembly service",
+  "category": "services",
+  "answer": "Professional assembly is available for desks, chairs and storage for a flat $79 per item, or $199 for a room of up to 5 items. Book it at checkout.",
+  "question_variants": [
+   "do you assemble furniture",
+   "can someone build my desk",
+   "assembly cost"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-04",
+  "title": "Warranty",
+  "category": "support",
+  "answer": "Office chairs carry a 5-year warranty, desks 3 years, electronics 1 year from the manufacturer. Ergonomic chairs carry a 10-year mechanism warranty.",
+  "question_variants": [
+   "what warranty do chairs have",
+   "is my desk under warranty"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-05",
+  "title": "Bulk and business orders",
+  "category": "business",
+  "answer": "Business accounts get volume pricing on orders of 10 or more chairs or desks, net-30 invoicing and a dedicated account manager. Orders over $10,000 require approval.",
+  "question_variants": [
+   "do you offer bulk discounts",
+   "business account",
+   "net 30 terms"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-06",
+  "title": "Choosing a desk size",
+  "category": "guides",
+  "answer": "Allow at least 36 inches behind the desk for the chair. A 48\" desk suits a laptop and one monitor; 60\" fits two monitors; L-shaped desks suit corners and dual workflows.",
+  "question_variants": [
+   "what size desk do I need",
+   "how big should my desk be"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-07",
+  "title": "Choosing a TV size for a meeting room",
+  "category": "guides",
+  "answer": "A good rule: screen diagonal of about one inch for every 2.6 inches of distance from the farthest seat. For a 16-foot room, a 75\" display works well.",
+  "question_variants": [
+   "what size TV for a conference room",
+   "how big a screen do I need"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-08",
+  "title": "Ergonomic setup",
+  "category": "guides",
+  "answer": "Set chair height so feet rest flat, elbows at 90 degrees, and the top of the monitor at or just below eye level, about an arm's length away.",
+  "question_variants": [
+   "how should I set up my chair",
+   "ergonomic desk setup"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-09",
+  "title": "Ink and toner recycling",
+  "category": "sustainability",
+  "answer": "Bring empty ink and toner cartridges to any store or mail them free to recycle them.",
+  "question_variants": [
+   "recycle ink cartridges",
+   "what do I do with empty toner"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-10",
+  "title": "Price match",
+  "category": "pricing",
+  "answer": "We match a lower advertised price from major retailers on identical in-stock items at the time of purchase.",
+  "question_variants": [
+   "do you price match",
+   "found it cheaper elsewhere"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-11",
+  "title": "Payment methods",
+  "category": "payments",
+  "answer": "We accept major credit cards, business accounts on net-30 terms and gift cards. In this demo store, use test card 4242 4242 4242 4242 with any future expiry and CVC.",
+  "question_variants": [
+   "what payment methods do you accept",
+   "can I pay by invoice"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-12",
+  "title": "Tracking an order",
+  "category": "orders",
+  "answer": "You'll get an email with tracking as soon as your order ships. Ask the assistant 'where is my order' with your order number for status.",
+  "question_variants": [
+   "where is my order",
+   "track my order"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-13",
+  "title": "Free room planning consultation",
+  "category": "services",
+  "answer": "Our design team plans offices of any size for free: send your room dimensions or a photo and we'll suggest a layout and a shopping list.",
+  "question_variants": [
+   "can you help me plan my office",
+   "office design service"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-14",
+  "title": "Setting up a home office in a bedroom",
+  "category": "guides",
+  "answer": "In a bedroom, put the desk near a window for daylight, keep 36\" of chair space, use a compact desk (40-48\") and a chair mat to protect carpet.",
+  "question_variants": [
+   "how to set up an office in my bedroom",
+   "home office in a small room"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-15",
+  "title": "Bundle offers",
+  "category": "pricing",
+  "answer": "Bundles apply automatically in your cart: desk + chair saves 15%, printer + 2 cartridges saves 10%, 3+ chairs save 10% (15% for 10+), and more.",
+  "question_variants": [
+   "what bundles do you have",
+   "do you have any deals"
+  ]
+ },
+ {
+  "type": "kb_article",
+  "article_id": "KB-16",
+  "title": "Meeting room sizes",
+  "category": "guides",
+  "answer": "Typical sizes: a huddle room is 100-150 sq ft for 2-5 people, with the table pushed against a wall display. A conference room is 250-350 sq ft for 8-14, with a table 3-4 ft wide and 8-12 ft long and at least 36 inches behind seated people. A boardroom is 400-600+ sq ft for 12-24, with a table 4-5 ft wide and up to 20 ft long, 48 inches of walking space round it and a credenza at the back. An executive suite is 150-200 sq ft: an L- or U-shaped desk facing the door, two guest chairs and a side table. Rooms for video calls need a display, a camera above it and a speakerphone or soundbar.",
+  "question_variants": [
+   "how big should a boardroom be",
+   "what size is a huddle room",
+   "how much space for a conference room",
+   "video conference room setup"
+  ]
+ }
+]

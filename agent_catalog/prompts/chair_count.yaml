@@ -1,0 +1,15 @@
+record_kind: prompt
+
+name: chair_count
+
+description: >
+    Count the chairs in a room photo, including ones half hidden, and name the shape of
+    the main table's top.
+
+annotations:
+  owner: "Design Services"
+  model: "vision"
+  used_by: "Room Planner · Replicate my room"
+
+content: |
+  How many chairs are in this photo? Count each one, including chairs partly hidden by a table or by other chairs. And what shape is the main table's top, seen from above? Reply with JSON only: {"chairs": N, "table": "round" or "rectangular" or "square" or "oval" or "none"}

@@ -1,0 +1,14 @@
+# Python 3.12+. Pinned to the versions the demo is tested with.
+streamlit==1.63.0
+couchbase==4.6.3
+openai==3.13.0
+httpx==0.28.1
+python-dotenv==1.2.3
+pillow==12.3.0
+numpy==2.5.3
+pydantic==2.14.0
+# Agent Catalog (agentc) and the Agent Memory client
+agentc==1.1.5
+agentc-core==1.1.5
+agentc-cli==1.1.5
+couchbase-agent-memory==1.0.0

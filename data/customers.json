@@ -1,0 +1,46 @@
+[
+ {
+  "customer_id": "RET-1001",
+  "name": "Rachel Kim",
+  "company": "Northwind Capital",
+  "segment": "business",
+  "role": "Facilities Director",
+  "email": "rachel.kim@northwind.example.com",
+  "city": "Boston, MA",
+  "persona": "Setting up a new 30x40 ft HQ floor for 16 people plus a conference room.",
+  "type": "customer"
+ },
+ {
+  "customer_id": "RET-1002",
+  "name": "Leo Martins",
+  "company": "Brightwave Labs",
+  "segment": "business",
+  "role": "Office Manager",
+  "email": "leo@brightwave.example.com",
+  "city": "Austin, TX",
+  "persona": "Startup moving into a 20x24 ft office for 6 people.",
+  "type": "customer"
+ },
+ {
+  "customer_id": "RET-1003",
+  "name": "Priyank Desai",
+  "company": null,
+  "segment": "home",
+  "role": "Remote software engineer",
+  "email": "priyank.desai@example.com",
+  "city": "Seattle, WA",
+  "persona": "Turning a 12x10 ft spare bedroom into a home office.",
+  "type": "customer"
+ },
+ {
+  "customer_id": "RET-1004",
+  "name": "James O'Neill",
+  "company": null,
+  "segment": "home",
+  "role": "Teacher",
+  "email": "james.oneill@example.com",
+  "city": "Chicago, IL",
+  "persona": "Small 9x8 ft home office corner for lesson planning and printing.",
+  "type": "customer"
+ }
+]

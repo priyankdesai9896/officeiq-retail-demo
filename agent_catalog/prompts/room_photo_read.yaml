@@ -1,0 +1,23 @@
+record_kind: prompt
+
+name: room_photo_read
+
+description: >
+    Read a photo of a room: what kind of room it is, its estimated floor size, the floor,
+    the furniture already there, the colours and the style — as JSON.
+
+annotations:
+  owner: "Design Services"
+  model: "vision"
+  used_by: "Room Planner · Plan from a photo"
+
+content: |
+  You are a workspace planner. Look at this photo of a room and reply with JSON only:
+  {"room_type": one of ["home office","bedroom office","private office","open office","huddle room","conference room","boardroom","executive suite"] (a room with a bed is a "bedroom office"),
+   "length_ft": your estimate of the longer floor dimension in feet,
+   "width_ft": your estimate of the shorter floor dimension in feet,
+   "floor": "carpet" or "hard",
+   "existing": [furniture and equipment already in the room, short nouns],
+   "colours": [the main furniture colours, simple colour words],
+   "style": "one or two words",
+   "notes": "one short sentence about the space"}

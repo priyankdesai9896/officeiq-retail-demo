@@ -1,0 +1,15 @@
+record_kind: prompt
+
+name: chairs_locate
+
+description: >
+    A second, chairs-only pass: a box round every chair, for chairs the first pass
+    missed.
+
+annotations:
+  owner: "Design Services"
+  model: "vision"
+  used_by: "Room Planner · Replicate my room"
+
+content: |
+  Locate every chair in this room, one box per chair, including chairs partly hidden behind a table or behind other chairs. Reply with JSON only: {"objects": [{"label": "chair", "bbox_2d": [x1, y1, x2, y2]}, ...]}

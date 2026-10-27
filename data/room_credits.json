@@ -1,0 +1,186 @@
+{
+ "home office": [
+  {
+   "image": "assets/rooms/home-office-1.jpg",
+   "photographer": "tookapic",
+   "photographer_url": "https://pixabay.com/users/tookapic-1386459/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-work-desk-computer-932926/"
+  },
+  {
+   "image": "assets/rooms/home-office-2.jpg",
+   "photographer": "ErikaWittlieb",
+   "photographer_url": "https://pixabay.com/users/ErikaWittlieb-427626/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-home-house-desk-chair-lamp-1078869/"
+  },
+  {
+   "image": "assets/rooms/home-office-3.jpg",
+   "photographer": "StockSnap",
+   "photographer_url": "https://pixabay.com/users/StockSnap-894430/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/computer-keyboard-apple-electronics-2565478/"
+  }
+ ],
+ "bedroom office": [
+  {
+   "image": "assets/rooms/bedroom-office-1.jpg",
+   "photographer": "Pexels",
+   "photographer_url": "https://pixabay.com/users/Pexels-2286921/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/bed-bedroom-chairs-computer-1834327/"
+  },
+  {
+   "image": "assets/rooms/bedroom-office-2.jpg",
+   "photographer": "StockSnap",
+   "photographer_url": "https://pixabay.com/users/StockSnap-894430/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/apartment-bed-bedroom-book-shelve-2558277/"
+  },
+  {
+   "image": "assets/rooms/bedroom-office-3.jpg",
+   "photographer": "stuartlimedigital",
+   "photographer_url": "https://pixabay.com/users/stuartlimedigital-1614765/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/home-office-small-office-1034939/"
+  }
+ ],
+ "private office": [
+  {
+   "image": "assets/rooms/private-office-1.jpg",
+   "photographer": "MagicDesk",
+   "photographer_url": "https://pixabay.com/users/MagicDesk-930274/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-sitting-room-executive-730681/"
+  },
+  {
+   "image": "assets/rooms/private-office-2.jpg",
+   "photographer": "DAVECTOR",
+   "photographer_url": "https://pixabay.com/users/DAVECTOR-52484830/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/ai-generated-office-desk-luxury-10510441/"
+  },
+  {
+   "image": "assets/rooms/private-office-3.jpg",
+   "photographer": "u_w24h9b9v3p",
+   "photographer_url": "https://pixabay.com/users/u_w24h9b9v3p-29069534/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/employee-corporate-conference-room-7366215/"
+  }
+ ],
+ "open office": [
+  {
+   "image": "assets/rooms/open-office-1.jpg",
+   "photographer": "12019",
+   "photographer_url": "https://pixabay.com/users/12019-12019/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-cubicles-employees-working-95311/"
+  },
+  {
+   "image": "assets/rooms/open-office-2.jpg",
+   "photographer": "StartupStockPhotos",
+   "photographer_url": "https://pixabay.com/users/StartupStockPhotos-690514/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-startup-tables-chairs-room-594119/"
+  },
+  {
+   "image": "assets/rooms/open-office-3.jpg",
+   "photographer": "reallywellmadedesks",
+   "photographer_url": "https://pixabay.com/users/reallywellmadedesks-22274515/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/standing-desk-home-office-office-7349890/"
+  }
+ ],
+ "conference room": [
+  {
+   "image": "assets/rooms/conference-room-1.jpg",
+   "photographer": "Pexels",
+   "photographer_url": "https://pixabay.com/users/Pexels-2286921/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/chairs-table-contemporary-furniture-2181960/"
+  },
+  {
+   "image": "assets/rooms/conference-room-2.jpg",
+   "photographer": "Joergelman",
+   "photographer_url": "https://pixabay.com/users/Joergelman-241223/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/conference-room-table-chairs-beamer-338563/"
+  },
+  {
+   "image": "assets/rooms/conference-room-3.jpg",
+   "photographer": "MagicDesk",
+   "photographer_url": "https://pixabay.com/users/MagicDesk-930274/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/meeting-room-table-screen-730679/"
+  }
+ ],
+ "boardroom": [
+  {
+   "image": "assets/rooms/boardroom-1.jpg",
+   "photographer": "kzd",
+   "photographer_url": "https://pixabay.com/users/kzd-1443/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/meeting-room-board-room-10270/"
+  },
+  {
+   "image": "assets/rooms/boardroom-2.jpg",
+   "photographer": "u_c48rf6ybx8",
+   "photographer_url": "https://pixabay.com/users/u_c48rf6ybx8-55127632/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/business-work-office-woman-10186537/"
+  },
+  {
+   "image": "assets/rooms/boardroom-3.jpg",
+   "photographer": "StockSnap",
+   "photographer_url": "https://pixabay.com/users/StockSnap-894430/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/white-room-office-table-chairs-2591360/"
+  }
+ ],
+ "huddle room": [
+  {
+   "image": "assets/rooms/huddle-room-1.jpg",
+   "photographer": "Pexels",
+   "photographer_url": "https://pixabay.com/users/Pexels-2286921/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/chairs-desks-windows-empty-1838776/"
+  },
+  {
+   "image": "assets/rooms/huddle-room-2.jpg",
+   "photographer": "jdpereiro",
+   "photographer_url": "https://pixabay.com/users/jdpereiro-2378671/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-space-office-sunny-coworking-1744805/"
+  },
+  {
+   "image": "assets/rooms/huddle-room-3.jpg",
+   "photographer": "Photosbychalo",
+   "photographer_url": "https://pixabay.com/users/Photosbychalo-12734517/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/small-office-office-desk-chairs-4837892/"
+  }
+ ],
+ "executive suite": [
+  {
+   "image": "assets/rooms/executive-suite-1.jpg",
+   "photographer": "MagicDesk",
+   "photographer_url": "https://pixabay.com/users/MagicDesk-930274/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-sitting-room-executive-730681/"
+  },
+  {
+   "image": "assets/rooms/executive-suite-2.jpg",
+   "photographer": "DAVECTOR",
+   "photographer_url": "https://pixabay.com/users/DAVECTOR-52484830/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/ai-generated-office-desk-luxury-10510441/"
+  },
+  {
+   "image": "assets/rooms/executive-suite-3.jpg",
+   "photographer": "kjhmicro",
+   "photographer_url": "https://pixabay.com/users/kjhmicro-235462/",
+   "source": "Pixabay",
+   "page": "https://pixabay.com/photos/office-shelf-desk-interior-design-332211/"
+  }
+ ]
+}

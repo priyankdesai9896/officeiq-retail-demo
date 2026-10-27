@@ -1,0 +1,16 @@
+# secrets and local config
+.env
+agent-memory.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# local state
+.DS_Store
+.agent-catalog/
+.agent-activity/
+.image_candidates/
+.models/
+.model-cache/

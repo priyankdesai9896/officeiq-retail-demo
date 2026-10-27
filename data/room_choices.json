@@ -1,0 +1,42 @@
+{
+ "home office": [
+  11,
+  18,
+  10
+ ],
+ "bedroom office": [
+  1,
+  6,
+  24
+ ],
+ "private office": [
+  0,
+  1,
+  7
+ ],
+ "open office": [
+  1,
+  2,
+  23
+ ],
+ "conference room": [
+  3,
+  6,
+  22
+ ],
+ "boardroom": [
+  24,
+  10,
+  3
+ ],
+ "huddle room": [
+  7,
+  11,
+  0
+ ],
+ "executive suite": [
+  0,
+  3,
+  25
+ ]
+}

@@ -1,0 +1,33 @@
+# OfficeIQ retail demo — Couchbase Server, plus the optional Agent Memory server.
+# Ollama runs natively on the host (Docker on a Mac has no GPU/Metal access).
+#
+#   docker compose up -d couchbase                 # always
+#   docker compose --profile memory up -d          # once agentmemory-server:v1.0.0 is loaded
+
+services:
+  couchbase:
+    image: couchbase/server:enterprise-8.0.3
+    container_name: officeiq-couchbase
+    ports:
+      - "8091-8096:8091-8096"
+      - "11210:11210"
+      - "18091-18096:18091-18096"
+    volumes:
+      - couchbase-data:/opt/couchbase/var
+    restart: unless-stopped
+
+  agentmemory:
+    image: agentmemory-server:v1.0.0
+    container_name: officeiq-agentmemory
+    profiles: ["memory"]
+    env_file: agent-memory.env
+    ports:
+      - "8082:8080"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - couchbase
+    restart: unless-stopped
+
+volumes:
+  couchbase-data:
